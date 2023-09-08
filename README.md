@@ -5,4 +5,4 @@ This project is in PHP, to view this project setup a XAMPP server and a i have p
  
 https://github.com/shriniwas-git/Pharmacy-Management-System-DBMS/blob/389466d9ddf02438695f946c7a9bd88177a1f8ad/Report.pdf
 
-Developed by Shriniwas Raju Jagadabhi, Vidapu Bhanu Teja, M S Hemant and Sontu Akshath Rishi
+Developed by Shriniwas Raju Jagadabhi, Vidapu Bhanu Teja, M S Hemant and Sontu Akshath Rishi.
